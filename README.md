@@ -5,7 +5,7 @@
 MultiMC+
 =======
 
-MultiMC+ is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity. Its based on MutiMC to fix anyonces that shouldnt exist
+MultiMC+ is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity. Its based on MutiMC to fix anyonces that shouldnt exist. Important to note that the icon is just a placeholder and will get replaced once its outside beta
 
 ## Development
 If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
