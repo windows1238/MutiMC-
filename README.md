@@ -2,10 +2,10 @@
   <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
 </p>
 
-MultiMC
+MultiMC+
 =======
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+MultiMC+ is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity. Its based on MutiMC to fix anyonces that shouldnt exist
 
 ## Development
 If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
